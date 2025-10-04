@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background: #f9f9f9;
+}
+
+h1 {
+    color: #2d6cdf;
+}
+
+#review-questions {
+    margin-top: 25px;
+    padding: 15px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
